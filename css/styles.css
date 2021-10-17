@@ -1,0 +1,32 @@
+@media screen and (min-width: 767px) {
+  body {
+    background-color: white;
+  }
+
+  .header {
+    background-color: transparent;
+    height: 48px;
+  }
+
+  .header {
+    max-width: 987px;
+    background-color: #76e4eb;
+    margin: 0 auto;
+  }
+  .hero-banner .container {
+    background-color: #315fa4;
+    height: 280px;
+    width: 987px;
+    margin: 0 auto;
+  }
+  .footer {
+    background-color: transparent;
+  }
+
+  .footer .container {
+    height: 266px;
+    background-color: #c01887;
+    margin: 20px;
+    width: 987px;
+  }
+}
